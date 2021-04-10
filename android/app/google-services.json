@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861988861001",
+    "project_id": "blogflutterdesafio",
+    "storage_bucket": "blogflutterdesafio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861988861001:android:7c78a4646b28a68e0e7b98",
+        "android_client_info": {
+          "package_name": "com.example.blog_flutter_desafio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861988861001-45kenrebabeu667lealhe50v3d7qfmr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLvn8ZkMTH7NHDNTZYn0UKO6MVqAClhdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861988861001-45kenrebabeu667lealhe50v3d7qfmr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">861988861001-45kenrebabeu667lealhe50v3d7qfmr5.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">861988861001</string>
+    <string name="google_api_key" translatable="false">AIzaSyDLvn8ZkMTH7NHDNTZYn0UKO6MVqAClhdY</string>
+    <string name="google_app_id" translatable="false">1:861988861001:android:7c78a4646b28a68e0e7b98</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDLvn8ZkMTH7NHDNTZYn0UKO6MVqAClhdY</string>
+    <string name="google_storage_bucket" translatable="false">blogflutterdesafio.appspot.com</string>
+    <string name="project_id" translatable="false">blogflutterdesafio</string>
+</resources>
